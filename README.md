@@ -1,17 +1,16 @@
 # Market Segmentation and Migration Analysis Project
 
 ## Overview
-This project aims to create an interactive interface that allows users to find the best marketing segments by county and vice versa, based on specific parameters. It utilizes census data to classify people into groups based on job types and analyze migration trends. The goal is to create a valuable tool for businesses and policymakers to understand market dynamics and migration patterns.
+This project aims to create an interactive interface that allows users to find the best marketing segments by county and vice versa, based on specific parameters. It utilizes census data to classify people into groups based on job types and analyze migration trends. 
 
 ## Objectives
 - Develop an interface to identify optimal market segments by county and find the best areas to market based on user-defined parameters.
-- Classify the population into groups based on job types (e.g., blue-collar, middle class).
+- Classify the population into groups based on job types (e.g., blue-collar).
 - Analyze migration trends and how they impact different market segments.
 - Create an interactive website to present findings and allow user interaction.
 
 ## Data Sources
 - **U.S. Census Bureau**: Primary source for demographic, economic, and housing data.
-- **American Community Survey (ACS)**: Detailed demographic, social, economic, and housing statistics.
 - **Internal Revenue Service (IRS)**: Migration data based on tax returns.
 - **State and Local Government Databases**: Additional region-specific data.
 
@@ -65,4 +64,4 @@ This project aims to create an interactive interface that allows users to find t
 [MIT License](LICENSE)
 
 ## Contact
-For any questions or feedback, please contact Dashiell Kim at [your-email@example.com].
+For any questions or feedback, please contact Dashiell Kim at [dkim11@uoregon.edu].
